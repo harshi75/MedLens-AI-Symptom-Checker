@@ -1,0 +1,5 @@
+Fever,Cough,Fatigue,Disease
+1,1,0,Flu
+1,1,1,COVID-19
+0,0,1,Anemia
+1,0,0,Common Cold
